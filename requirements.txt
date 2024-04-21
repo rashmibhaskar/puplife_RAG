@@ -1,0 +1,10 @@
+faiss-cpu
+langchain
+openai
+python-dotenv
+fastapi
+jinja2
+python-multipart
+uvicorn
+tiktoken
+langchain_community
